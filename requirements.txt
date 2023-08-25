@@ -115,7 +115,6 @@ pdfminer.six==20221105
 pexpect==4.8.0
 pickleshare==0.7.5
 Pillow==10.0.0
-pip==23.1.2
 platformdirs==3.8.0
 playwright==1.36.0
 posthog==3.0.1
