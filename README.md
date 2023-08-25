@@ -46,6 +46,10 @@ We would like to express our gratitude to the open-source community for providin
 
 Happy QnA-ing over your structured data with LLMs! If you have any questions, issues, or suggestions, please don't hesitate to reach out.
 
+## Additional
+
+To see full version of LLM coursebook you can visit: https://github.com/dwiknrd/llm_coursebook
+
 
 
 
